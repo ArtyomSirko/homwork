@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728774ab-c8c1-4773-a8ce-7b3c96b8af1e" name="Changes" comment="выполненно первое задание">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="728774ab-c8c1-4773-a8ce-7b3c96b8af1e" name="Changes" comment="домашняя работа2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654585129218</updated>
       <workItem from="1654585131813" duration="6416000" />
-      <workItem from="1654592942083" duration="3328000" />
+      <workItem from="1654592942083" duration="3659000" />
     </task>
     <task id="LOCAL-00001" summary="первый комит">
       <created>1654585510036</created>
@@ -84,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654586104808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="домашняя работа2">
+      <created>1654596427056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654596427056</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первый комит" />
     <MESSAGE value="выполненно первое задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="выполненно первое задание" />
+    <MESSAGE value="домашняя работа2" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашняя работа2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homwork$Main.ic" NAME="Main Coverage Results" MODIFIED="1654588095686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
